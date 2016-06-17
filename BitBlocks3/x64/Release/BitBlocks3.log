@@ -1,0 +1,43 @@
+﻿  Edge.cpp
+c:\users\rhanyel\documents\visual studio 2015\projects\bitblocks3\bitblocks3\Edge.h(12): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  c:\users\rhanyel\documents\visual studio 2015\projects\bitblocks3\bitblocks3\Edge.h(12): note: Cannot generate copy-ctor or copy-assignment operator when UDT contains a zero-sized array
+Edge.cpp(13): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Edge.cpp(23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Edge.cpp(33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Edge.cpp(42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Edge.cpp(63): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Edge.cpp(68): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Edge.cpp(72): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Edge.cpp(76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Edge.cpp(91): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Edge.cpp(97): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Edge.cpp(98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Edge.cpp(102): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Edge.cpp(107): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Edge.cpp(108): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Edge.cpp(120): warning C4244: 'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+Edge.cpp(129): warning C4018: '<': signed/unsigned mismatch
+Edge.cpp(132): warning C4018: '<': signed/unsigned mismatch
+  GamePhysics.cpp
+  GameStatus.cpp
+c:\users\rhanyel\documents\visual studio 2015\projects\bitblocks3\bitblocks3\Edge.h(12): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  c:\users\rhanyel\documents\visual studio 2015\projects\bitblocks3\bitblocks3\Edge.h(12): note: Cannot generate copy-ctor or copy-assignment operator when UDT contains a zero-sized array
+  main.cpp
+c:\users\rhanyel\documents\visual studio 2015\projects\bitblocks3\bitblocks3\Edge.h(12): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  c:\users\rhanyel\documents\visual studio 2015\projects\bitblocks3\bitblocks3\Edge.h(12): note: Cannot generate copy-ctor or copy-assignment operator when UDT contains a zero-sized array
+main.cpp(65): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(112): warning C4305: '=': truncation from 'double' to 'float'
+main.cpp(88): warning C4101: 'event': unreferenced local variable
+  Player.cpp
+c:\users\rhanyel\documents\visual studio 2015\projects\bitblocks3\bitblocks3\Edge.h(12): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  c:\users\rhanyel\documents\visual studio 2015\projects\bitblocks3\bitblocks3\Edge.h(12): note: Cannot generate copy-ctor or copy-assignment operator when UDT contains a zero-sized array
+Player.cpp(24): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+Player.cpp(33): warning C4018: '<': signed/unsigned mismatch
+Player.cpp(36): warning C4018: '<': signed/unsigned mismatch
+Player.cpp(71): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Player.cpp(73): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Player.cpp(75): warning C4244: 'argument': conversion from 'float' to 'unsigned __int64', possible loss of data
+  Generating code
+  All 407 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  BitBlocks3.vcxproj -> C:\Users\Rhanyel\Documents\Visual Studio 2015\Projects\BitBlocks3\x64\Release\BitBlocks3.exe

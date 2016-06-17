@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\rhanyel\documents\visual studio 2015\projects\bitblocks3\bitblocks3\main.cpp(24): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\rhanyel\documents\visual studio 2015\projects\bitblocks3\bitblocks3\main.cpp(128): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rhanyel\documents\visual studio 2015\projects\bitblocks3\bitblocks3\main.cpp(46): warning C4101: 'ValorLido': unreferenced local variable
+c:\users\rhanyel\documents\visual studio 2015\projects\bitblocks3\bitblocks3\main.cpp(280): warning C4101: 'ValorLido': unreferenced local variable
+c:\users\rhanyel\documents\visual studio 2015\projects\bitblocks3\bitblocks3\main.cpp(330): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\rhanyel\documents\visual studio 2015\projects\bitblocks3\bitblocks3\main.cpp(332): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  BitBlocks3.vcxproj -> C:\Users\Rhanyel\Documents\Visual Studio 2015\Projects\BitBlocks3\x64\Debug\BitBlocks3.exe
