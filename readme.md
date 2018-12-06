@@ -6,39 +6,54 @@ This is an academic project of a game developed using a basic concurrently progr
 
 # How to run
 
- - Windows:
- -->First, you should to makes[download of SFML Lib](https://www.sfml-dev.org/download/sfml/2.3.2/);
- -->After, open solution file and [configure (like this link)](https://www.sfml-dev.org/tutorials/2.5/start-cb.php) the project build settings on [CodeBlocks](http://www.codeblocks.org/downloads) IDE;
- --> Makes build/run;
+ - Windows:<br/>
 
+ -->First, you should to makes[download of SFML Lib](https://www.sfml-dev.org/download/sfml/2.3.2/); <br/>
+ -->After, open solution file and [configure (like this link)](https://www.sfml-dev.org/tutorials/2.5/start-cb.php) the project build settings on [CodeBlocks](http://www.codeblocks.org/downloads) IDE; <br/>
+ --> Makes build/run; <br/>
+<br/>
  - Linux:
  
-	Install gcc and dev tools :
-	<code>$ sudo apt-get update</code>  
-	<code>$ sudo apt-get install build-essential manpages-dev</code>
+	Install gcc and dev tools : <br/>
+	<code>$ sudo apt-get update</code>  <br/>
+	<code>$ sudo apt-get install build-essential manpages-dev</code> <br/>
 	
-	Install SFML lib
-	 <code>$ sudo apt-get install libsfml-dev</code>
+	Install SFML lib: <br/>
+	 <code>$ sudo apt-get install libsfml-dev</code> <br/>
 	 
-	 Clone this project in your workspace and enter in directory
-	<code>$ git clone [project-link]</code>
-	<code>$ cd  BitBlocks/
+	 Clone this project in your workspace and enter in directory <br/>
+	<code>$ git clone [project-link]</code> <br/>
+	<code>$ cd  BitBlocks/ <br/>
 	
-	Compile and run project
-	<code>$ g++ -c BitBlocks3/*.cpp -std=c++11</code>
-	<code>$ g++ main.o -o sfml-app -lsfml-graphics -lsfml-window -lsfml-system Edge.o GamePhysics.o GameScreen.o GameStatus.o Player.o Timer.o</code>
-	<code>$ ./sfml-app</code>
-	
-	<code>______________________________</code>
-	<code>-</code>
-	<code>-</code>
-	<code>-</code>
-	<code>-</code>
-	<code>-</code>
-	<code>-</code>
-	<code>-</code>
-	<code>-</code>
-	<code>------------------------------</code>
+	Compile and run project: <br/>
+	<code>$ g++ -c BitBlocks3/*.cpp -std=c++11</code> <br/>
+	<code>$ g++ main.o -o sfml-app -lsfml-graphics -lsfml-window -lsfml-system Edge.o GamePhysics.o GameScreen.o GameStatus.o Player.o Timer.o</code>  <br/>
+	<code>$ ./sfml-app</code> <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+	<br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
 	<code> $. rhany@thing: ~/</code>
 
 ```
