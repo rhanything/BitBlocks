@@ -23,7 +23,7 @@ This is an academic project of a game developed using a basic concurrently progr
 	 
 	 Clone this project in your workspace and enter in directory <br/>
 	<code>$ git clone [project-link]</code> <br/>
-	<code>$ cd  BitBlocks/ <br/>
+	<code>$ cd  BitBlocks/</code> <br/>
 	
 	Compile and run project: <br/>
 	<code>$ g++ -c BitBlocks3/*.cpp -std=c++11</code> <br/>
