@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="BitBlocks3" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug x64">
+				<Option output="BitBlocks3" prefix_auto="1" extension_auto="1" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add directory="C:/Users/Rhanyel/Downloads/SFML64VISUAL/SFML-2.3.2/include" />
+				</Compiler>
+				<Linker>
+					<Add library="sfml-graphics-d.lib" />
+					<Add library="sfml-window-d.lib" />
+					<Add library="sfml-system-d.lib" />
+					<Add directory="C:/Users/Rhanyel/Downloads/SFML64VISUAL/SFML-2.3.2/lib" />
+				</Linker>
+			</Target>
+			<Target title="Release x64">
+				<Option output="BitBlocks3" prefix_auto="1" extension_auto="1" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add directory="C:/Users/Rhanyel/Downloads/CSFML-Visual Studio-2015RC-64/CSFML-Visual_Studio2015RCx64/include" />
+				</Compiler>
+				<Linker>
+					<Add library="sfml-graphics.lib" />
+					<Add library="sfml-window.lib" />
+					<Add library="sfml-system.lib" />
+					<Add directory="C:/Users/Rhanyel/Downloads/SFML64VISUAL/SFML-2.3.2/lib" />
+				</Linker>
+			</Target>
+			<Target title="Release Win32">
+				<Option output="BitBlocks3" prefix_auto="1" extension_auto="1" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-DWIN32" />
+					<Add option="-DNDEBUG" />
+					<Add option="-D_CONSOLE" />
+					<Add directory="C:/Users/Rhanyel/Downloads/SFML64VISUAL/SFML-2.3.2/include" />
+				</Compiler>
+				<Linker>
+					<Add library="sfml-System-s.lib" />
+					<Add directory="C:/Users/Rhanyel/Downloads/SFML64VISUAL/SFML-2.3.2/lib" />
+				</Linker>
+			</Target>
+			<Target title="Debug Win32">
+				<Option output="BitBlocks3" prefix_auto="1" extension_auto="1" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-DWIN32" />
+					<Add option="-D_DEBUG" />
+					<Add option="-D_CONSOLE" />
+					<Add directory="C:/Users/Rhanyel/Downloads/SFML64VISUAL/SFML-2.3.2/include" />
+				</Compiler>
+				<Linker>
+					<Add library="sfml-System-s-d.lib" />
+					<Add directory="C:/Users/Rhanyel/Downloads/SFML64VISUAL/SFML-2.3.2/lib" />
+				</Linker>
+			</Target>
+		</Build>
+		<Unit filename="Edge.cpp" />
+		<Unit filename="Edge.h" />
+		<Unit filename="GamePhysics.cpp" />
+		<Unit filename="GamePhysics.h" />
+		<Unit filename="GameScreen.cpp" />
+		<Unit filename="GameScreen.h" />
+		<Unit filename="GameStatus.cpp" />
+		<Unit filename="GameStatus.h" />
+		<Unit filename="Player.cpp" />
+		<Unit filename="Player.h" />
+		<Unit filename="Timer.cpp" />
+		<Unit filename="Timer.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
