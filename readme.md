@@ -29,6 +29,8 @@ This is an academic project of a game developed using a basic concurrently progr
 	<code>$ g++ -c BitBlocks3/*.cpp -std=c++11</code> <br/>
 	<code>$ g++ main.o -o sfml-app -lsfml-graphics -lsfml-window -lsfml-system Edge.o GamePhysics.o GameScreen.o GameStatus.o Player.o Timer.o</code>  <br/>
 	<code>$ ./sfml-app</code> <br/>
+    <br />
+    obs.: To restart when game's over press spacebar
     <br/>
     <br/>
     <br/>
