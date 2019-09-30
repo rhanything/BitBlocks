@@ -31,31 +31,5 @@ This is an academic project of a game developed using a basic concurrently progr
 	<code>$ ./sfml-app</code> <br/>
     <br />
     obs.: To restart when game's over press spacebar
-    <br/>
-    <br/>
-    <br/>
-    <br/>
-    <br/>
-	<br/>
-    <br/>
-    <br/>
-    <br/>
-    <br/>
-    <br/>
-    <br/>
-    <br/>
-    <br/>
-    <br/>
-    <br/>
-    <br/>
-    <br/>
-    <br/>
-    <br/>
-    <br/>
-    <br/>
-    <br/>
-    <br/>
-    <br/>
-	<code> $. rhany@thing: ~/</code>
 
 ```
