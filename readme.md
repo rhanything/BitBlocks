@@ -10,7 +10,7 @@ This is an academic project of a game developed using a basic concurrently progr
 
  -->First, you should to makes [download of SFML Lib](https://www.sfml-dev.org/download/sfml/2.3.2/); <br/>
  -->After, open solution file and [configure (like this link)](https://www.sfml-dev.org/tutorials/2.5/start-cb.php) the project build settings on [CodeBlocks](http://www.codeblocks.org/downloads) IDE; <br/>
- --> Makes build/run; <br/>
+ --> Make build/run; <br/>
 <br/>
  - Linux:
  
