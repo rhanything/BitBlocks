@@ -1,7 +1,7 @@
 # BIT BLOCKS!
  *ACADEMIC SFML/C++ GAME*
 
-This is an academic project of a game developed using a basic concurrently programation with c++ and SFML lib.
+This is an academic project of a game developed using basic concurrently programming concepts with c++ and SFML lib.
 
 
 # How to run
